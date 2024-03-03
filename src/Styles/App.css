@@ -1,0 +1,12 @@
+.custom-navbar {
+    background-color: blueviolet !important; /* Override Bootstrap default */
+  }
+  /* custom.css */
+
+.navbar-nav .nav-link {
+    font-size: 22px; /* Adjust the font size as needed */
+  }
+  
+#navtitle{
+  font-size: 22px;
+}
